@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/dino.jpg" alt="header" width="100%">
+  <img src="./assets/cat.jpg" alt="header" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepanshu Saini</h1>
