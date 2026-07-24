@@ -167,7 +167,7 @@ demonstrate a complete development-to-production ML deployment workflow.
 
 ---
 
-## Experience
+## Others Experience
 
 **Management Head** · United Youth Parliament 2.0
 `Leadership & Communication`
